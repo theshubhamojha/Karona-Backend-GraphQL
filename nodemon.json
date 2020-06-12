@@ -1,0 +1,9 @@
+{
+    "env": {
+        "MONGO_USER": "shubhamkojha",
+        "MONGO_PASSWORD": "thisisshubham",
+        "MONGO_DB": "todographql",
+        "JWT_SECRET_KET": "secret",
+        "JWT_SESSION_PERIOD":"3hr"
+    }
+}
